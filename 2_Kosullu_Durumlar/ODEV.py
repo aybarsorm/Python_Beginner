@@ -5,7 +5,7 @@
   1.4) ikisinden birisi doğruysa "Bir şeyler yanlış gitti" tarzında bir çıktı vermeli.
   1.5) Eğer her ikiside yanlış girilmişse "Giriş yapılamadı" tarzında çıktı vermeli.
   
- 
+ test
  
 
 2-)Kullanıcıdan istenilen "Kullanıcı Adı" ve "Şifre" ile :
